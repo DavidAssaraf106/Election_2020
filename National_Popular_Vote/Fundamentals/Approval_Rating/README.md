@@ -1,0 +1,1 @@
+For this feature, we are looking for the president's net approval rating. What we are going to do is to find the curennt president's net approval rating for 5 months before each election (which is to be held on November).
